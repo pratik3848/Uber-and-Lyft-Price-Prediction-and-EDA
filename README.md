@@ -1,4 +1,5 @@
 # Uber and Lyft Price Prediction and EDA
+![maxresdefault](https://github.com/pratik3848/Uber-and-Lyft-Price-Prediction-and-EDA/assets/41427089/93c22577-d42a-45f8-9753-bb89c1b44254)
 
 ## Introduction :
 
