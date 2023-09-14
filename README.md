@@ -23,4 +23,4 @@ We will conduct a comprehensive analysis of the dataset, beginning with Explorat
 ## Data Sources :
 
 This dataset was sourced from Kaggle:
-[Link to Dataset](https://www.kaggle.com/datasets?search=Uber+and+Lyft+Price)
+[Link to Dataset](https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma?resource=download)
